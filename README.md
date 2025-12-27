@@ -55,7 +55,7 @@ This project extracts the **English transcript** of a YouTube video, stores it i
 
 ## ▶️ Run Locally
 
-### 1. Clone the repo
+
 ```bash
 git clone https://github.com/your-username/youtube-video-chat-rag.git
 cd youtube-video-chat-rag
